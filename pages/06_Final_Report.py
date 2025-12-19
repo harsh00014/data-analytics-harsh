@@ -5,7 +5,7 @@ st.title("🏁 Final Evaluation Summary")
 st.info("This section summarizes the key findings of the entire analytics suite.")
 
 c1, c2, c3 = st.columns(3)
-c1.metric("Total Pages", "6 Modules")
+c1.metric("Total Pages", "12 Modules")
 c2.metric("Data Points", "5,000+", "+12%")
 c3.metric("System Health", "100%", "Stable")
 
